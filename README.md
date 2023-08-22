@@ -1,8 +1,8 @@
 ### Hi there 👋
-You are here looking at Akanksha's Github profile. Well let me give you a little headsup about who I am and what I do.
+You are here looking at akks2703's Github profile. Well let me give you a little heads up to who I am.
 
 # 💫 About Me:
-🔭 I’m currently doing by bachelor's degree <br>👯 I’m looking to collaborate on working projects related AI, ML and DL.<br>🌱 I’m currently learning and experimenting with Deep learning models 
+🔭 I’m currently doing by bachelor's degree specializing in Artificial Intelligence and Data Science.<br>👯 I’m looking to collaborate on working projects related AI, ML and DL.<br>🌱 I’m currently learning and experimenting with projects regarding Deep learning projects.
 
 
 ## 🌐 Socials:
